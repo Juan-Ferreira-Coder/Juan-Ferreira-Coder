@@ -1,43 +1,85 @@
-# Juan Ferreira
+<h1 align="center">Juan Ferreira</h1>
 
-Estudante de tecnologia com interesse em desenvolvimento de software, frontend e sistemas informáticos.  
-Focado em aprender, evoluir tecnicamente e desenvolver projetos práticos.
-
----
-
-## Sobre mim
-- Estudante de Gestão e Programação de Sistemas Informáticos
-- Interesse em desenvolvimento frontend e programação
-- Motivado a aprender novas tecnologias e boas práticas
-- Experiência em aprendizagem prática e projetos pessoais
-
----
-
-## Áreas de atuação
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" />
+  Estudante de tecnologia focado em desenvolvimento web e programação.<br>
+  Gestão e Programação de Sistemas Informáticos
 </p>
 
----
+<h2 align="center">Sobre mim</h2>
 
-## Tecnologias e conhecimentos
-- HTML e CSS para estruturação e estilização de páginas web
-- Desenvolvimento frontend
-- Programação em C++
-- Programação em Python
+<p align="center">
+Sou estudante de tecnologia com interesse em desenvolvimento frontend, programação e sistemas informáticos.<br>
+Busco evoluir constantemente, aprendendo novas tecnologias e aplicando o conhecimento em projetos práticos.
+</p>
 
----
+<hr>
 
-## Objetivos
-- Consolidar conhecimentos em desenvolvimento web e programação
-- Criar projetos próprios para portfólio
-- Desenvolver competências técnicas e profissionais na área de TI
+<h2 align="center">Áreas de conhecimento</h2>
 
----
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
+</p>
 
-## Contato
-- GitHub: **JuanFerreira**
+<hr>
+
+<h2 align="center">Tecnologias</h2>
+
+<p align="center">
+<strong>HTML & CSS</strong><br>
+Estruturação e estilização de páginas web
+</p>
+
+<p align="center">
+<strong>Frontend</strong><br>
+Desenvolvimento de interfaces funcionais e responsivas
+</p>
+
+<p align="center">
+<strong>C++</strong><br>
+Programação estruturada e lógica
+</p>
+
+<p align="center">
+<strong>Python</strong><br>
+Scripts, automação e aprendizado
+</p>
+
+<hr>
+
+<h2 align="center">Projetos em destaque</h2>
+
+<p align="center">
+  - N/A
+</p>
+
+<hr>
+
+<h2 align="center">Objetivos</h2>
+
+<p align="center">
+Desenvolver projetos próprios<br>
+Aprofundar conhecimentos técnicos<br>
+Construir um portfólio profissional sólido
+</p>
+
+<hr>
+
+<h2 align="center">Contato</h2>
+
+<p align="center">
+GitHub: <a href="https://github.com/JuanFerreira">JuanFerreira</a><br>
+E-mail: <a href="juancarlos.sf15@gmail.com">juancarlos.sf15@gmail.com</a>
+</p>
+
+<hr>
+
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanFerreira&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFerreira&layout=compact&theme=radical" />
+</p>
