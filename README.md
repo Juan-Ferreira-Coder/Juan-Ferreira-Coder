@@ -48,16 +48,6 @@ Programação estruturada e lógica
 Scripts, automação e aprendizado
 </p>
 
-<hr>
-
-<h2 align="center">Projetos em destaque</h2>
-
-<p align="center">
-  - N/A
-</p>
-
-<hr>
-
 <h2 align="center">Objetivos</h2>
 
 <p align="center">
