@@ -24,30 +24,6 @@ Busco evoluir constantemente, aprendendo novas tecnologias e aplicando o conheci
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
 </p>
 
-<hr>
-
-<h2 align="center">Tecnologias</h2>
-
-<p align="center">
-<strong>HTML & CSS</strong><br>
-Estruturação e estilização de páginas web
-</p>
-
-<p align="center">
-<strong>Frontend</strong><br>
-Desenvolvimento de interfaces funcionais e responsivas
-</p>
-
-<p align="center">
-<strong>C++</strong><br>
-Programação estruturada e lógica
-</p>
-
-<p align="center">
-<strong>Python</strong><br>
-Scripts, automação e aprendizado
-</p>
-
 <h2 align="center">Objetivos</h2>
 
 <p align="center">
