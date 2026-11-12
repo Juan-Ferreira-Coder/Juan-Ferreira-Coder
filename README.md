@@ -45,21 +45,3 @@ Desenvolver projetos próprios<br>
 Aprofundar conhecimentos técnicos<br>
 Construir um portfólio profissional sólido
 </p>
-
-<hr>
-
-<h2 align="center">Contato</h2>
-
-<p align="center">
-E-mail: <a href="mailto:juancarlos.sf15@gmail.com">juancarlos.sf15@gmail.com</a>
-</p>
-
-<hr>
-
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanFerreira&show_icons=true&theme=radical&hide_border=true" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFerreira&layout=compact&theme=radical&hide_border=true" />
-</p>
